@@ -82,15 +82,23 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHByYnB0OTR3MnlybzlnMmVuOTYyNmUzdzZrZDBocHBmenBjd3pwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vzO0Vc8b2VBLi/giphy.gif"  />
-</div>
+<img align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHAyenh6ZGw5a2pxb3pyeHFmeWpoNGc5Ymp4ZnBwMTJtMWlxMWthMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif"  />
 
 ###
 
 <img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU5ZjdnNGd1amQyc2hyZDNxdjYwb21menlsZXRxbnN1ZGQyd3N2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+
+###
+
+<h3 align="right">Education</h3>
+
+###
+
+<p align="right">NTI student• MeanStack, Creativa Benha | Egypt.	(06/2025 – 09/2025).</p>
+
+###
+
+<p align="right">Bachelor Degree of specific education -Computer department • Mansoura University | Egypt.<br>(2025 – GPA: 3.12).</p>
 
 ###
 
