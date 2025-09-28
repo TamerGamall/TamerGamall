@@ -90,8 +90,6 @@
 
 ###
 
-<br clear="both">
-
 <!-- <h3 align="left">...</h3> -->
 
 <br clear="both">
