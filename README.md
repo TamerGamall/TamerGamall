@@ -25,7 +25,7 @@
 <h4 align="left"></h4>
 
 ###
-## 📊 Stats
+## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/TamerGamal?theme=dark&font=Montserrat&ext=heatmap)
 
 <h3 align="left">Skills</h3>
