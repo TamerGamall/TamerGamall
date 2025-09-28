@@ -106,7 +106,7 @@
 
 ###
 
-<img align="left" height="235" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzloOWd4bjh5enR1b3d0Zm9qZGhhMnliM2RwZDBscmQzcHRiZzR6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4oMoIbIQrvCjm/giphy.gif"  />
+<img align="left" height="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzloOWd4bjh5enR1b3d0Zm9qZGhhMnliM2RwZDBscmQzcHRiZzR6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4oMoIbIQrvCjm/giphy.gif"  />
 
 ###
 
@@ -115,6 +115,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TamerGamall&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
