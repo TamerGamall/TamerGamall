@@ -90,11 +90,13 @@
 
 ###
 
-<img align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHAyenh6ZGw5a2pxb3pyeHFmeWpoNGc5Ymp4ZnBwMTJtMWlxMWthMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif"  />
+<br clear="both">
+
+<h3 align="left">Education</h3>
 
 ###
 
-<h3 align="left">Education</h3>
+<img align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHAyenh6ZGw5a2pxb3pyeHFmeWpoNGc5Ymp4ZnBwMTJtMWlxMWthMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif"  />
 
 ###
 
