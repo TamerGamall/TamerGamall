@@ -84,7 +84,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TamerGamall/TamerGamall/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnh0c2cwbzZmaG43MGpjejEzMmJ3azdkOHk1azNxM3pueHltdG5pMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+</div>
 
 ###
 
