@@ -85,7 +85,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnh0c2cwbzZmaG43MGpjejEzMmJ3azdkOHk1azNxM3pueHltdG5pMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHByYnB0OTR3MnlybzlnMmVuOTYyNmUzdzZrZDBocHBmenBjd3pwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vzO0Vc8b2VBLi/giphy.gif"  />
 </div>
 
 ###
@@ -106,7 +106,7 @@
 
 ###
 
-<img align="left" height="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzloOWd4bjh5enR1b3d0Zm9qZGhhMnliM2RwZDBscmQzcHRiZzR6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4oMoIbIQrvCjm/giphy.gif"  />
+<img align="left" height="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzloOWd4bjh5enR1b3d0Zm9qZGhhMnliM2RwZDBscmQzcHRiZzR6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4oMoIbIQrvCjm/giphy.gif"  />
 
 ###
 
