@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">...</h3>
+<!-- <h3 align="left">...</h3> -->
 
 ###
 
@@ -92,7 +92,7 @@
 
 <br clear="both">
 
-<h3 align="left">...</h3>
+<!-- <h3 align="left">...</h3> -->
 
 ###
 
@@ -120,8 +120,9 @@
 
 <br clear="both">
 
-<h3 align="left">...</h3>
+<!-- <h3 align="left">...</h3> -->
 ## Status
+
 ###
 
 <br clear="both">
