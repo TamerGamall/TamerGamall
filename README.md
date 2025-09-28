@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TamerGamall.TamerGamall&left_color=darkgray&right_color=navy&left_text=Profile%20Visitors"  />
+
+###
+
 <h3 align="left">Bref</h3>
 
 ###
@@ -56,10 +60,6 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TamerGamall.TamerGamall&left_color=darkgray&right_color=navy&left_text=Profile%20Visitors"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/tamer-gamal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -76,6 +76,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TamerGamall/TamerGamall/output/pacman-contribution-graph-dark.svg">
