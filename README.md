@@ -27,10 +27,13 @@
 ###
 ## LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/TamerGamal?theme=dark&font=Montserrat&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/TamerGamal?theme=dark&font=Montserrat&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
 
 <h3 align="left">Skills</h3>
----
+
 ###
 
 <img align="left" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWs4OGVhZjMzenB4MTJzamxleW5sZ2Z2bGloNWlpeTIyNjY1Zmp6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
