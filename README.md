@@ -1,16 +1,110 @@
-## Hi there 👋
+<h1 align="center">Hola, I am Tamer Gamal :)</h1>
 
-<!--
-**TamerGamall/TamerGamall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="right">Bref</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZtdDNubHB6d2czZmJyZXFoZXprdGpsZTczejFsemNvcnF3eXQ2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif"  />
+
+###
+
+<p align="left">Full-Stack Web Developer with strong experience in building modern web applications. <br>Frontend: Angular | React.js <br>Backend: Node.js <br>Mobile: React Native <br>Passionate about learning new web technologies and delivering high-quality solutions.</p>
+
+###
+
+<h3 align="right">Skills</h3>
+
+###
+
+<img align="left" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWs4OGVhZjMzenB4MTJzamxleW5sZ2Z2bGloNWlpeTIyNjY1Zmp6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+
+###
+
+<div align="right">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+</div>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TamerGamall.TamerGamall&left_color=darkgray&right_color=navy&left_text=Profile%20Visitors"  />
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/tamer-gamal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/tamer.gamal.520562" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="tamerrgamall@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.link/n57jqk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TamerGamall/TamerGamall/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TamerGamall/TamerGamall/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TamerGamall/TamerGamall/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDU5ZjdnNGd1amQyc2hyZDNxdjYwb21menlsZXRxbnN1ZGQyd3N2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TamerGamall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TamerGamall&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2" height="10" alt="languages graph"  />
+</div>
+
+###
+
+<img align="left" height="235" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzloOWd4bjh5enR1b3d0Zm9qZGhhMnliM2RwZDBscmQzcHRiZzR6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4oMoIbIQrvCjm/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kibch3kj2e4vrrh57un5v3gko4&unique={true|1|on|yes}?" alt="Widget with the current Spotify song"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://streak-stats.demolab.com?user=TamerGamall&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
