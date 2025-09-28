@@ -98,7 +98,7 @@
 
 <br clear="both">
 
-<h3 align="left">Education</h3>
+## Education
 
 ###
 
@@ -121,7 +121,7 @@
 <br clear="both">
 
 <h3 align="left">...</h3>
-
+## Status
 ###
 
 <br clear="both">
