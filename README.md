@@ -82,11 +82,9 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">...</h3>
-
-###
-
-<h3 align="left"></h3>
 
 ###
 
@@ -100,6 +98,10 @@
 
 ###
 
+<h3 align="left"></h3>
+
+###
+
 <p align="left">NTI student• MeanStack, Creativa Benha | Egypt.	(06/2025 – 09/2025).</p>
 
 ###
@@ -107,6 +109,14 @@
 <p align="left">Bachelor Degree of specific education -Computer department • Mansoura University | Egypt.<br>(2025 – GPA: 3.2).</p>
 
 ###
+
+<br clear="both">
+
+<h3 align="left">...</h3>
+
+###
+
+<br clear="both">
 
 <h3 align="right"></h3>
 
