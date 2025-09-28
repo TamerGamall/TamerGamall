@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="right">Bref</h3>
+<h3 align="left">Bref</h3>
 
 ###
 
@@ -14,7 +14,11 @@
 
 ###
 
-<h3 align="right">Skills</h3>
+<h3 align="left"></h3>
+
+###
+
+<h3 align="left">Skills</h3>
 
 ###
 
@@ -87,7 +91,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TamerGamall&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=true&order=2" height="10" alt="languages graph"  />
 </div>
 
@@ -97,13 +101,13 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kibch3kj2e4vrrh57un5v3gko4&unique={true|1|on|yes}?" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=TamerGamall&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
