@@ -77,7 +77,9 @@
   <a href="https://wa.link/n57jqk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="35" alt="whatsapp logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=leetCode&logo=twitter&label=PS&color=ffa116&logoColor=white&labelColor=&style=plastic" height="35" alt="twitter logo"  />
+  <a href="https://leetcode.com/u/TamerGamal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=leetCode&logo=twitter&label=PS&color=ffa116&logoColor=white&labelColor=&style=plastic" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
