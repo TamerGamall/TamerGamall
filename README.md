@@ -119,7 +119,7 @@ Full-Stack Web Developer passionate about building scalable, clean, and maintain
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-![](https://github-contributor-stats.vercel.app/api?username=TamerGamall&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=TamerGamall&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
