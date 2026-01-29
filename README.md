@@ -79,9 +79,9 @@ Full-Stack Web Developer passionate about building scalable, clean, and maintain
 ---
 
 ## 🚀 Projects
-> (Update this section anytime with new projects. Use GIFs, Screenshots, and links)
 
-### Example Project
+
+### Latest Project
 - **Tech:** Angular, ASP.NET Core, SQL Server  
 - **Description:** Task management web app with authentication and CRUD operations.  
 - [Repo](https://github.com/TamerGamall/example) | [Live Demo](https://example.com)
@@ -112,7 +112,7 @@ Full-Stack Web Developer passionate about building scalable, clean, and maintain
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=TamerGamall&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TamerGamall&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
