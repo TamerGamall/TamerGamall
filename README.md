@@ -108,7 +108,7 @@ Full-Stack Web Developer passionate about building scalable, clean, and maintain
 
 ### ✍️ Random Dev Quote
 <p align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
