@@ -89,21 +89,6 @@ Full-Stack Web Developer passionate about building scalable, clean, and maintain
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamerGamall&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamerGamall&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</p>
-
----
 
 ### ✍️ Random Dev Quote
 <p align="center">
@@ -115,7 +100,7 @@ Full-Stack Web Developer passionate about building scalable, clean, and maintain
 ### 🔝 Top Contributed Repo
 <p align="center">
  
-![](https://github-readme-streak-stats.herokuapp.com/?username=TamerGamall&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TamerGamall&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </p>
 
 ---
