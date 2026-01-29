@@ -13,8 +13,8 @@ Full-Stack .NET Developer | Angular | Problem Solver
 # 💫 About Me:
 Full-Stack Web Developer passionate about building scalable, clean, and maintainable applications.
 
-💻 **Frontend:** Angular, TypeScript, HTML, CSS, Bootstrap  
-⚙️ **Backend:** C#, ASP.NET Core, Web API  
+💻 **Frontend:** Angular, React.js, TypeScript, HTML, CSS, Bootstrap  
+⚙️ **Backend:** C#, ASP.NET Core, Web API, Node.js  
 🗄️ **Databases:** SQL Server, MySQL, MongoDB  
 🧠 **Concepts:** Clean Code, SOLID, OOP, Agile / Scrum  
 🧩 **Problem Solving:** LeetCode  
@@ -28,10 +28,11 @@ Full-Stack Web Developer passionate about building scalable, clean, and maintain
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_tamergamal_/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamer-gamal/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamerrgamall@gmail.com) 
+[![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white)](https://open.spotify.com/user/31kibch3kj2e4vrrh57un5v3gko4)
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
@@ -77,6 +78,16 @@ Full-Stack Web Developer passionate about building scalable, clean, and maintain
 
 ---
 
+## 🚀 Projects
+> (Update this section anytime with new projects. Use GIFs, Screenshots, and links)
+
+### Example Project
+- **Tech:** Angular, ASP.NET Core, SQL Server  
+- **Description:** Task management web app with authentication and CRUD operations.  
+- [Repo](https://github.com/TamerGamall/example) | [Live Demo](https://example.com)
+
+---
+
 ## 🧠 Problem Solving & LeetCode
 
 <p align="center">
@@ -85,42 +96,27 @@ Full-Stack Web Developer passionate about building scalable, clean, and maintain
 
 ---
 
-
-
-## 📊 GitHub Stats:
+### 🎵 Currently Listening (Spotify)
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TamerGamall&theme=dark
-&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TamerGamall&theme=dark
-&hide_border=false" /><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TamerGamall&theme=dark
-&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-![](https://github-profile-trophy.vercel.app/?username=TamerGamall&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kibch3kj2e4vrrh57un5v3gko4&unique=true" />
 </p>
 
 ---
 
 ### ✍️ Random Dev Quote
 <p align="center">
-<img src=https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
 ### 🔝 Top Contributed Repo
 <p align="center">
- 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TamerGamall&limit=5&theme=dark&combine_all_yearly_contributions=true" />
- 
+  <img src="https://github-contributor-stats.vercel.app/api?username=TamerGamall&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=TamerGamall&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
