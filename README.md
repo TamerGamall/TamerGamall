@@ -97,7 +97,7 @@ I actively practice **Data Structures & Algorithms** with focus on:
 ## 📊 GitHub Stats:
 <p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=TamerGamall&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?username=TamerGamall&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TamerGamall&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TamerGamall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
