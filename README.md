@@ -120,7 +120,8 @@ I actively practice **Data Structures & Algorithms** with focus on:
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-![](https://github-contributor-stats.vercel.app/api?username=TamerGamall&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?username=TamerGamall&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </p>
 
 ---
