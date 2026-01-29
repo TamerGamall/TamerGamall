@@ -106,7 +106,7 @@ I actively practice **Data Structures & Algorithms** with focus on:
 
 ## 🏆 GitHub Trophies
 <p align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=TamerGamall&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TamerGamall&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
 
 ---
