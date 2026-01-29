@@ -79,10 +79,6 @@ Full-Stack Web Developer passionate about building scalable, clean, and maintain
 
 ## 🧠 Problem Solving & LeetCode
 
-<img align="right" height="150" src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" />
-
-
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/TamerGamal?theme=dark&font=Montserrat&ext=heatmap" />
 </p>
@@ -119,7 +115,9 @@ Full-Stack Web Developer passionate about building scalable, clean, and maintain
 
 ### 🔝 Top Contributed Repo
 <p align="center">
+ 
 <img src="https://github-contributor-stats.vercel.app/api?username=TamerGamall&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+ 
 </p>
 
 ---
